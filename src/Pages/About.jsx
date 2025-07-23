@@ -43,10 +43,14 @@ const About = () => {
         <div className="h-[80vh] pt-20 md:pt-0">
           <p className="text-xl font-medium text-orange-500 tracking-widest mb-2">— ABOUT US</p>
           <p className="text-gray-700 mb-4 leading-relaxed">
-            Estd. 1989, Suraj Marbles has grown over the years into a renowned identity that prioritizes marble quality and ensures the best taste in marble to its buyers.
-            This has led Suraj Marbles to be considered among the most reliable stone production units in India.
-            As a pioneer in the marble industry, we leverage our years of experience to handpick the best of stones from nature’s most exotic locations,
-            combining it with our expert technological acumen and state-of-the-art machinery, to transform them into a prolific creation with finished perfection.
+          Estd. since 2021, has grown over the years into a renowned identity that prioritizes marble quality and ensures the best taste
+           in marble to its buyers. Specializing in pink Alaska quartz, feldspar directly from Rajsamand mines, and a variety of white, 
+           black, pink, multicolored options including Kumari (Makrana marble), Albeta white marble, and granite, we have become a trusted
+            name. This has led us to be considered among the most reliable stone production units in India. As a pioneer in the marble 
+            industry with 18 years of experience in this field, we believe in quality as evidenced by our MSME certificate (Laghu Udhyog).
+             We leverage our expertise to handpick the best stones from nature’s most exotic locations, combining it with our expert
+              technological acumen and state-of-the-art machinery to transform them into prolific creations with finished perfection.
+               Our export office is based in Jaipur, with packaging and loading handled from Kishangarh, Rajasthan.
           </p>
           <ul className="list-disc list-inside text-lg space-y-2">
             <li className="text-gray-800">
